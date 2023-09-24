@@ -1,3 +1,5 @@
+//Laís Pereira da Silva e Matheus Augusto Macedo de Lima
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
